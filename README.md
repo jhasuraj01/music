@@ -1,3 +1,9 @@
 # Tried to play music for the first time.
 
 ## <a href="national-anthem180.wav" download>Click here to download Music</a>
+
+OR
+
+## <a href="https://beepbox.co/player/#song=8n31s0k0l00e0rt2Qm1a7g0rj0ri0r1o4210T5v0L4u05q1d5f5y1z8C0c0h8H_SRJ6JIBxAAAAkT5v1L4u21q1d5f6y1z8C0c0h8H_SJ5SJFAAAkAAAT5v1L4ud3q1d2f7y3z1C0c0h0HVxh90000000000T2v1L4u15q0d1f8y0z1C2w0b28p2CexaBIqVY8ODiJHUNDmMx24000000000000000000008gx00000000000000000000248g00000000000000000000p24_IR_OY2MMdFH-qacysDAb5-jhClBghvOqbYCzbQLOqe9ZBpWVNZcB-6ALOsysCyyz8B-iMVdmjRj7nvbIFEEFFAK8TBISLThQZCLVALjnYQp75ZeVLeT9EPBYCSALVSB-jhDonVd74qOJFweDX6Xd56h9vAMf4XOZKzF-QbJVZpd1vBlBYSILrQWvISnX9vArAQksjPaTKeDWkPIQkp4B-j8YBybYCzaWp2uH2_pxvAQoBhvAFE-aKFImRBIhv4cV9H-0D2dvaR7YILXrx6LGlWEq_upzNvH2HIMd6qNpelBlU6POY00000000000000" download>Click here to Play Online</a>
+
+> Download and play for better quality sound and smooth experience
