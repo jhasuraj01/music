@@ -17,7 +17,7 @@ Practice music one.
   <source src="./suraj originals music1.wav" type="audio/wav">
 </audio>
 
-## Latest Remake of songs
+## Latest Remake of Songs
 
 Someone You Loved 2019 - Music on Piano
 
