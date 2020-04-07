@@ -23,5 +23,5 @@
 > - <a href="../../national-anthem180.wav" download>WAV</a> - 12.6 MB
 
 <audio controls>
-  <source src="../../Jana Gana Mana - Suraj's attempt 2 (MP3 320kbps, 44.1kHz).mp3" type="audio/mp3">
+  <source src="../../national-anthem180.wav" type="audio/mp3">
 </audio>
