@@ -28,7 +28,7 @@ Practice music one.
 > - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 192kbps, 44.1kHz).mp3" download>High Quality MP3 (192kbps, 44.1kHz)</a> - 1.56 MB, 
 > - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 128kbps, 44.1kHz).mp3" download>Medium Quality MP3 (128kbps, 44.1kHz)</a> - 1.04 MB
 <audio controls>
-  <source src="./Jana Gana Mana - Suraj's attempt 2 (MP3 320kbps, 44.1kHz).mp3" type="audio/mp3">
+  <source src="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 320kbps, 44.1kHz).mp3" type="audio/mp3">
 </audio>
 
 ### Someone You Loved 2019 - Music on Piano
