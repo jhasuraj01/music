@@ -2,7 +2,7 @@
 
 > Played on piano by Suraj Jha
 >
-> <a href="./Jana Gana Mana - sheet music.jpg" target="_blank">Get Sheet Music</a> - source [wikimedia](https://commons.wikimedia.org/wiki/File:Jana_Gana_Mana_sheet_music.jpg)
+> <a href="./Jana Gana Mana - sheet music.jpg" target="_blank">Get Sheet Music</a> - source <a href="https://commons.wikimedia.org/wiki/File:Jana_Gana_Mana_sheet_music.jpg" target="_blank">wikimedia</a>
 ## Attempt 2
 
 > Available Formats for Download
