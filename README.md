@@ -22,11 +22,11 @@ Practice music one.
 
 ### [National Anthem - Jana Gana Mana Attempt 2](./files/jana-gana-mana/)
 > Available Formats for Download
-> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (HD WAV 24bit, 44.1kHz).wav">HD WAV (24bit, 44.1kHz)</a> - 17.2 MB, 
-> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (WAV 16bit, 44.1kHz).wav">WAV (16bit, 44.1kHz)</a> - 11.5 MB, 
-> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 320kbps, 44.1kHz).mp3">Highest Quality MP3 (320kbps, 44.1kHz)</a> - 2.61 MB, 
-> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 192kbps, 44.1kHz).mp3">High Quality MP3 (192kbps, 44.1kHz)</a> - 1.56 MB, 
-> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 128kbps, 44.1kHz).mp3">Medium Quality MP3 (128kbps, 44.1kHz)</a> - 1.04 MB
+> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (HD WAV 24bit, 44.1kHz).wav" download>HD WAV (24bit, 44.1kHz)</a> - 17.2 MB, 
+> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (WAV 16bit, 44.1kHz).wav" download>WAV (16bit, 44.1kHz)</a> - 11.5 MB, 
+> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 320kbps, 44.1kHz).mp3" download>Highest Quality MP3 (320kbps, 44.1kHz)</a> - 2.61 MB, 
+> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 192kbps, 44.1kHz).mp3" download>High Quality MP3 (192kbps, 44.1kHz)</a> - 1.56 MB, 
+> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 128kbps, 44.1kHz).mp3" download>Medium Quality MP3 (128kbps, 44.1kHz)</a> - 1.04 MB
 <audio controls>
   <source src="./Jana Gana Mana - Suraj's attempt 2 (MP3 320kbps, 44.1kHz).mp3" type="audio/mp3">
 </audio>
