@@ -23,5 +23,5 @@
 > - <a href="../../national-anthem180.wav" download>WAV</a> - 12.6 MB
 
 <audio controls>
-  <source src="../../national-anthem180.wav" type="audio/mp3">
+  <source src="../../national-anthem180.wav" type="audio/wav">
 </audio>
