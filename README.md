@@ -18,9 +18,20 @@ Practice music one.
 </audio>
 
 ## Latest Remake of Songs
+> Played on piano by Suraj Jha
 
-Someone You Loved 2019 - Music on Piano
+### [National Anthem - Jana Gana Mana Attempt 2](./files/jana-gana-mana/)
+> Available Formats for Download
+> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (HD WAV 24bit, 44.1kHz).wav">HD WAV (24bit, 44.1kHz)</a> - 17.2 MB, 
+> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (WAV 16bit, 44.1kHz).wav">WAV (16bit, 44.1kHz)</a> - 11.5 MB, 
+> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 320kbps, 44.1kHz).mp3">Highest Quality MP3 (320kbps, 44.1kHz)</a> - 2.61 MB, 
+> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 192kbps, 44.1kHz).mp3">High Quality MP3 (192kbps, 44.1kHz)</a> - 1.56 MB, 
+> - <a href="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 128kbps, 44.1kHz).mp3">Medium Quality MP3 (128kbps, 44.1kHz)</a> - 1.04 MB
+> <audio controls>
+>   <source src="./Jana Gana Mana - Suraj's attempt 2 (MP3 320kbps, 44.1kHz).mp3" type="audio/mp3">
+> </audio>
 
+### Someone You Loved 2019 - Music on Piano
 <a href="./files/someone-you-loved/Someone You Loved - music on piano by Suraj.wav">Download</a> - 24.8MB
 <audio controls>
   <source src="./files/someone-you-loved/Someone You Loved - music on piano by Suraj.wav" type="audio/wav">
