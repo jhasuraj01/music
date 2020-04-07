@@ -19,11 +19,11 @@
 > ### Individual Clefs
 > - <a href="./upper clef.m4a" download>Download Upper Clef (M4A)</a> - 816 KB
 >   <audio controls>
->     <source src="./upper clef.m4a" type="audio/m4a">
+>     <source src="./upper clef.m4a">
 >   </audio>
 > - <a href="./lower clef.m4a" download>Download Lower Clef (M4A)</a> - 816 KB
 >   <audio controls>
->     <source src="./lower clef.m4a" type="audio/m4a">
+>     <source src="./lower clef.m4a">
 >   </audio>
 
 ## Attempt 1
