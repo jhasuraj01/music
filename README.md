@@ -7,6 +7,8 @@
 
 ### Practice music one.
 
+> By Suraj Jha
+>
 > <audio controls>
 >   <source src="./suraj originals music1.wav">
 > </audio>
@@ -15,10 +17,11 @@
 > - <a href="./suraj originals music1.wav" download>WAV</a> - 15.2 MB
 
 ## Latest Remake of Songs
-> Played on piano by Suraj Jha
 
 ### [National Anthem - Jana Gana Mana Attempt 2](./files/jana-gana-mana/)
 
+> Played on Piano by Suraj Jha
+>
 > <audio controls>
 >   <source src="./files/jana-gana-mana/Jana Gana Mana - Suraj's attempt 2 (MP3 320kbps, 44.1kHz).mp3">
 > </audio>
@@ -33,6 +36,8 @@
 
 ### Someone You Loved 2019 - Music on Piano
 
+> Played on Piano by Suraj Jha
+>
 > <audio controls>
 >   <source src="./files/someone-you-loved/Someone You Loved - music on piano by Suraj.wav">
 > </audio>
