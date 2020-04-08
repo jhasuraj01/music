@@ -3,6 +3,8 @@
 ## First Music
 [National Anthem](./files/jana-gana-mana)
 
+---
+
 ## latest released Original Music
 
 ### Practice music one.
@@ -15,6 +17,8 @@
 > 
 > **Available Formats for Download**
 > - <a href="./suraj originals music1.wav" download>WAV</a> - 15.2 MB
+
+---
 
 ## Latest Remake of Songs
 
