@@ -12,7 +12,7 @@
 > By Suraj Jha
 >
 > <audio controls>
->   <source src="./files/calm-beats/Calm Beats - Suraj's Original (MP3 320kbps, 44.1kHz).mp3">
+>   <source src="./files/calm-beats/Calm Beats - Suraj's Original (MP3 320kbps, 44.1kHz).mp3" type="audio/mp3">
 > </audio>
 > 
 > **Available Formats for Download**
