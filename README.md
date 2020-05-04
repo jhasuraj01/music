@@ -7,6 +7,21 @@
 
 ## latest released Original Music
 
+### [Calm Beats](./files/calm-beats/)
+
+> By Suraj Jha
+>
+> <audio controls>
+>   <source src="./files/calm-beats/Calm Beats - Suraj's Original (MP3 320kbps, 44.1kHz).mp3">
+> </audio>
+> 
+> **Available Formats for Download**
+> - <a href="./files/calm-beats/Calm Beats - Suraj's Original (HD WAV 24bit, 44.1kHz).wav" download>HD WAV (24bit, 44.1kHz)</a> - 12.6 MB, 
+> - <a href="./files/calm-beats/Calm Beats - Suraj's Original (WAV 16bit, 44.1kHz).wav" download>WAV (16bit, 44.1kHz)</a> - 8.42 MB, 
+> - <a href="./files/calm-beats/Calm Beats - Suraj's Original (MP3 320kbps, 44.1kHz).mp3" download>Highest Quality MP3 (320kbps, 44.1kHz)</a> - 1.91 MB, 
+> - <a href="./files/calm-beats/Calm Beats - Suraj's Original (MP3 192kbps, 44.1kHz).mp3" download>High Quality MP3 (192kbps, 44.1kHz)</a> - 1.14 MB, 
+> - <a href="./files/calm-beats/Calm Beats - Suraj's Original (MP3 128kbps, 44.1kHz).mp3" download>Medium Quality MP3 (128kbps, 44.1kHz)</a> - 783 KB
+
 ### Practice music one.
 
 > By Suraj Jha
